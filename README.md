@@ -2,7 +2,7 @@
 
 __the best bat file ever__
 
-![Image of fuck](http://imgur.com/a/44zWj)
+![Image of fuck](https://i.imgur.com/KaRXoMu.png "Fuck in a terminal")
 
 ## Usage
-Place bat file wherever the fuck you want to run it
+Place fuck.bat file wherever the fuck you want to run it :fu:
