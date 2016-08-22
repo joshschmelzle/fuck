@@ -8,4 +8,5 @@ __the best bat file ever__
 Place fuck.bat file wherever the fuck you want to run it :fu:
 
 ## Inspired By
+
 https://twitter.com/lindseybieda/status/767807738562871296
