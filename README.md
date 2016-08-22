@@ -1,6 +1,6 @@
 # fuck
 
-__the best fucking bat file ever__
+the best fucking bat file __ever__
 
 ![Image of fuck](https://i.imgur.com/KaRXoMu.png "Fuck in a terminal")
 
