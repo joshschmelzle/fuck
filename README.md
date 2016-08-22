@@ -1,11 +1,11 @@
 # fuck
 
-the best fucking bat file __ever__
+the best fucking batch file __ever__
 
 ![Image of fuck](https://i.imgur.com/KaRXoMu.png "Fuck in a terminal")
 
 ## Usage
-Place fuck.bat file wherever the fuck you want to run it :fu:
+Place fuck.bat file wherever the fuck you want to run it :fu: e.g. `C:\Windows\System32` :clap: :clap: :clap:
 
 ## Inspired By
 
