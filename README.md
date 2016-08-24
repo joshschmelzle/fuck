@@ -10,7 +10,9 @@ a machine capable of running a fucking batch file
 
 ## usage
 
-place the fuck.bat file wherever the fuck you want to run it :fu: for the best fucking experience i recommend `C:\Windows\System32` :clap: :clap: :clap:
+place the fuck.bat file wherever the fuck you want to run it :fu: 
+
+for the best fucking experience i recommend `C:\Windows\System32` :clap: :clap: :clap:
 
 ## how it works
 
