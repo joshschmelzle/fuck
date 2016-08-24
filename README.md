@@ -16,7 +16,9 @@ place the fuck.bat file wherever the fuck you want to run it :fu:
 
 for the best fucking experience i recommend placing fuck.bat in your System32 folder typically at the following path: 
 
-`C:\Windows\System32` 
+```cmd
+C:\Windows\System32
+```
 
 :clap: :clap: :clap:
 
