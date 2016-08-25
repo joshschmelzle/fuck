@@ -6,15 +6,15 @@ a fucking rad batch file which reminds you that no fucks are given, inspired by 
 
 ## requirements
 
-a machine capable of running a fucking batch file
+a :computer: capable of running a fucking batch file 
 
 ## usage
 
-place the fuck.bat file wherever the fuck you want to run it :fu: 
+place the fuck.bat file wherever the fuck you want to run it :fu: :fu: 
 
 ## optional
 
-for the best fucking experience i recommend placing fuck.bat in your System32 folder.
+for the best fucking experience i recommend placing fuck.bat in your System32 folder. :page_facing_up:
 
 typically located at: 
 
@@ -26,7 +26,7 @@ C:\Windows\System32
 
 ## how it works
 
-fuck reminds you that no fucks are given
+fuck reminds you that no fucks are given :smile:
 
 [examples-link]:   https://github.com/joshschmelzle/fuck/blob/master/example.gif
 [license-badge]:   https://github.com/joshschmelzle/fuck/blob/master/wtfpl-badge-1.png
