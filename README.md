@@ -28,5 +28,9 @@ C:\Windows\System32
 
 fuck reminds you that no fucks are given :smile:
 
+## license WTFPL
+
+project license can be found [here](LICENSE)
+
 [examples-link]:   https://github.com/joshschmelzle/fuck/blob/master/example.gif
 [license-badge]:   https://github.com/joshschmelzle/fuck/blob/master/wtfpl-badge-1.png
