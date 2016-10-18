@@ -6,7 +6,7 @@ a fucking rad batch file which reminds you that no fucks are given, inspired by 
 
 ## requirements
 
-a :computer: capable of running a fucking batch file 
+a machine :computer: capable of running a fucking batch file 
 
 ## usage
 
