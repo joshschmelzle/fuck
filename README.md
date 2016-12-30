@@ -28,6 +28,8 @@ C:\Windows\System32
 
 fuck reminds you that no fucks are given :smile:
 
+this has no other fancy features like thefuck.
+
 ## license WTFPL
 
 project license can be found [here](LICENSE)
