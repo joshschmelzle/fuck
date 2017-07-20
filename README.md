@@ -28,6 +28,8 @@ C:\Windows\System32
 
 fuck reminds you that no fucks are given :smile:
 
+## caveats
+
 this has no other fancy features like [thefuck](https://github.com/nvbn/thefuck/).
 
 ## license WTFPL
