@@ -1,12 +1,12 @@
 # fuck [![WTFPL][license-badge]](LICENSE)
 
-a fucking win32 batch file which reminds you that no fucks are given, inspired by a [@lindseybieda](https://twitter.com/lindseybieda) [tweet](https://twitter.com/lindseybieda/status/767807738562871296), inspired by [thefuck](https://github.com/nvbn/thefuck/).
+a fucking batch file which reminds you that no fucks are given, inspired by a [@lindseybieda](https://twitter.com/lindseybieda) [tweet](https://twitter.com/lindseybieda/status/767807738562871296), inspired by [thefuck](https://github.com/nvbn/thefuck/).
 
 [![gif with the fucking example][examples-link]][examples-link]
 
 ## requirements
 
-a machine :computer: capable of running a fucking batch file 
+a win32 machine :computer: capable of running a fucking batch file 
 
 ## usage
 
