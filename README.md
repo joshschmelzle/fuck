@@ -1,6 +1,6 @@
 # fuck [![WTFPL][license-badge]](LICENSE)
 
-a fucking batch file which reminds you that no fucks are given, inspired by a [@lindseybieda](https://twitter.com/lindseybieda) [tweet](https://twitter.com/lindseybieda/status/767807738562871296), inspired by [thefuck](https://github.com/nvbn/thefuck/).
+fuck is a batch file, inspired by a [@lindseybieda](https://twitter.com/lindseybieda) [tweet](https://twitter.com/lindseybieda/status/767807738562871296), inspired by [thefuck](https://github.com/nvbn/thefuck/), that reminds you that no fucks are given.
 
 [![gif with the fucking example][examples-link]][examples-link]
 
