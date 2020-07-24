@@ -30,5 +30,5 @@ this has no other fancy features like [thefuck](https://github.com/nvbn/thefuck/
 
 project license can be found [here](LICENSE)
 
-[examples-link]:   https://github.com/joshschmelzle/fuck/blob/master/example.gif
-[license-badge]:   https://github.com/joshschmelzle/fuck/blob/master/wtfpl-badge-1.png
+[examples-link]:   https://github.com/joshschmelzle/fuck/blob/fuck/example.gif
+[license-badge]:   https://github.com/joshschmelzle/fuck/blob/fuck/wtfpl-badge-1.png
